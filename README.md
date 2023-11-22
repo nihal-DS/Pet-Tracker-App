@@ -11,7 +11,7 @@ Create a `Pet Inventory Application` with Inventory Database and an application 
 - Exit the application
 
 
-Save all pet objects instatiated on each run and make them available one next run
+Save all pet objects instantiated on each run and make them available one next run
 
 Create a `Owner` class with the following attributes:
 - Name
