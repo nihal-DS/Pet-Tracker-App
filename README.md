@@ -53,5 +53,5 @@ Also add exception handling for the following cases:
 - isVenomous: User should enter only 'y' or 'n' in either upper or lower case.
 
 ## Solution: 
-1. Options:
+### 1. Options:
 ![1](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/247ec60f-765d-46c4-8b6d-492d63aadae5)
