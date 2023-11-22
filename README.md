@@ -42,3 +42,13 @@ All the pet classes must have `comput_weight` method which does calculations bas
 - Fish: Weight increases by 5% every 80 days for the first 240 days and then stays constant. Assume that the increase occurs on each 80th day only.
 - Amphibians: Weight increases by 5% every 120 days for the first 360 days and then increases by 3% every 120 days. Assume that the increase occurs on each 120th day only.
 
+Also add exception handling for the following cases:
+- Date of birth: Valid Date
+- Birth Weight: Positive number
+- Litter Size: Positive Integer
+- hasClaws: User should enter only 'y' or 'n' in either upper or lower case.
+- scaleCondition: User should only enter 's' or 'r' in either upper or lower case
+- length: Positive integer
+- number of limbs: Positive integer
+- isVenomous: User should enter only 'y' or 'n' in either upper or lower case.
+
