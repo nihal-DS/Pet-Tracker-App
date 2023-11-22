@@ -54,7 +54,7 @@ Also add exception handling for the following cases:
 
 ## Solution: 
 ### 1. Options:
-![1](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/247ec60f-765d-46c4-8b6d-492d63aadae5)
+![1](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/0b73638a-64f4-4524-8247-a6c77528fef3)
 ### 2. Option 1 - Adding new pet:
 ![2](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/8e8ff725-523f-42b8-b9dc-c2daa711e3da)
 ### 3. Option 2 - Compute weights:
