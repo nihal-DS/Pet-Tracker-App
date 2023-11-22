@@ -36,3 +36,9 @@ Create three child classes of `Pet`:
   1. Number of limbs
   2. Is venomous
 
+
+All the pet classes must have `comput_weight` method which does calculations based on following rules:
+- Mammals: Weight increases by 10% every 60 days for the first 300 days. Weight is constant after that. Assume that the increase occurs on each 60th day only.
+- Fish: Weight increases by 5% every 80 days for the first 240 days and then stays constant. Assume that the increase occurs on each 80th day only.
+- Amphibians: Weight increases by 5% every 120 days for the first 360 days and then increases by 3% every 120 days. Assume that the increase occurs on each 120th day only.
+
