@@ -10,3 +10,6 @@ Create a `Pet Inventory Application` with Inventory Database and an application 
 - Print owner information for individuals with multiple pets
 - Exit the application
 
+
+Save all pet objects instatiated on each run and make them available one next run
+
