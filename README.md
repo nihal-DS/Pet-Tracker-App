@@ -61,7 +61,7 @@ Also add exception handling for the following cases:
 ![3](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/56d76d2c-3ed9-4b1b-a526-58b442ee0acd)
 ### 4. Option 3 - Print database:
 ![4](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/4fb5bae1-5f97-4de5-a447-209c4a121465)
-### Option 4 - Find owners with multiple pets:
+### 5. Option 4 - Find owners with multiple pets:
 ![5](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/42f11518-be63-46e6-b9a5-9eb6fd37f05b)
-### Option 5 - Exit application and save to database:
+### 6. Option 5 - Exit application and save to database:
 ![6](https://github.com/nihal-DS/Pet-Tracker-App/assets/120628216/749f7112-1ec5-4ebe-88a3-a3cba6944a3f)
